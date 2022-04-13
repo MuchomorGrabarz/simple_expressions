@@ -1,0 +1,3 @@
+[submodule "deps/hive"]
+	path = deps/hive
+	url = https://github.com/MuchomorGrabarz/hive.git
